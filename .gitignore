@@ -183,6 +183,11 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
+runs/ 
+datasets/
+crb-labels.v2i.yolov8/
+yolov8n.pt
+predictions/
 # PyPI configuration file
 .pypirc
 
