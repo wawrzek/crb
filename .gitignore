@@ -194,7 +194,16 @@ cython_debug/
 .cursorindexingignore
 
 # Image formats
-*.png 
+*.png
 *.jpg
 *.jpeg
 *.pdf
+
+
+# Our settings
+*.pt
+crb-labels.v2i.yolov8/
+runs/
+*.gz
+*.bz
+*.xz
